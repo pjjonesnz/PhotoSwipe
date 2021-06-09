@@ -19,7 +19,7 @@
 
 	'use strict';
 
-
+console.log("Paul Test");
 
 var PhotoSwipeUI_Default =
  function(pswp, framework) {
